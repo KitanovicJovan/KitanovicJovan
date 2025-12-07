@@ -44,7 +44,7 @@
   <rect class="stat-card" x="24" y="88" width="140" height="44" />
   <text class="stat-label" x="94" y="104" text-anchor="middle">Repos</text>
   <text class="stat-value" x="94" y="122" text-anchor="middle">
-    3 pub · 0 priv
+    3 pub · 15 priv
   </text>
 
   <rect class="stat-card" x="179" y="88" width="108" height="44" />
@@ -65,7 +65,7 @@
 
   <rect class="stat-card" x="671" y="88" width="108" height="44" />
   <text class="stat-label" x="725" y="104" text-anchor="middle">Languages</text>
-  <text class="stat-value" x="725" y="122" text-anchor="middle">1</text>
+  <text class="stat-value" x="725" y="122" text-anchor="middle">5</text>
 
   <text class="subtitle" x="24" y="158" style="fill: #e6edf3;">Most used languages</text>
 
@@ -87,10 +87,30 @@
   </tspan>
   <tspan class="stat-label"> commits this week</tspan>
 </text>
-      <rect x="24" y="176" width="748" height="8" fill="#3178c6" rx="1" />
+      <rect x="24" y="176" width="351.99999999999994" height="8" fill="#3178c6" rx="1" />
+      <rect x="375.99999999999994" y="176" width="175.99999999999997" height="8" fill="#563d7c" rx="1" />
+      <rect x="551.9999999999999" y="176" width="87.99999999999999" height="8" fill="#f1e05a" rx="1" />
+      <rect x="639.9999999999999" y="176" width="87.99999999999999" height="8" fill="#3572A5" rx="1" />
+      <rect x="727.9999999999999" y="176" width="43.99999999999999" height="8" fill="#e34c26" rx="1" />
       <circle class="lang-dot" cx="40" cy="201" fill="#3178c6" />
       <text class="lang-label" x="50" y="204">
-        TypeScript 100%
+        TypeScript 47%
+      </text>
+      <circle class="lang-dot" cx="200" cy="201" fill="#563d7c" />
+      <text class="lang-label" x="210" y="204">
+        CSS 24%
+      </text>
+      <circle class="lang-dot" cx="360" cy="201" fill="#f1e05a" />
+      <text class="lang-label" x="370" y="204">
+        JavaScript 12%
+      </text>
+      <circle class="lang-dot" cx="520" cy="201" fill="#3572A5" />
+      <text class="lang-label" x="530" y="204">
+        Python 12%
+      </text>
+      <circle class="lang-dot" cx="680" cy="201" fill="#e34c26" />
+      <text class="lang-label" x="690" y="204">
+        HTML 6%
       </text>
 
   <text class="subtitle" x="24" y="230" style="fill: #e6edf3;">Issues &amp; pull requests</text>
@@ -99,6 +119,12 @@
     </text>
     <rect x="24" y="264" width="0" height="8" rx="1" fill="#238636" />
     <rect x="24" y="264" width="748" height="8" rx="1" fill="#da3633" />
+    <text class="stat-label" x="24" y="298">
+      Pull requests ( 0 open · 4 merged · 0 closed )
+    </text>
+    <rect x="24" y="306" width="0" height="8" rx="1" fill="#238636" />
+    <rect x="24" y="306" width="748" height="8" rx="1" fill="#8957e5" />
+    <rect x="772" y="306" width="0" height="8" rx="1" fill="#da3633" />
 
   <text class="footer"
       x="400"
