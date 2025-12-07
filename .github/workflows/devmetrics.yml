@@ -41,7 +41,7 @@ jobs:
           DEV_METRICS_GITLAB_USER: ${{ secrets.GITLAB_USER }}
         run: |
           cd devmetrics-src
-          DEV_METRICS_TOKEN="${DEV_METRICS_TOKEN}" go run ./cmd/devmetrics -user vukan322 -out ../devmetrics.svg
+          DEV_METRICS_TOKEN="${DEV_METRICS_TOKEN}" go run ./cmd/devmetrics -user KitanovicJovan -out ../devmetrics.svg
 
       - name: Commit and push updated card
         env:
