@@ -44,7 +44,7 @@
   <rect class="stat-card" x="24"  y="96" width="140" height="44" />
   <text class="stat-label" x="94" y="112" text-anchor="middle">Repos</text>
   <text class="stat-value" x="94" y="130" text-anchor="middle">
-    2 pub · 17 priv
+    1 pub · 18 priv
   </text>
 
   <rect class="stat-card" x="179" y="96" width="108" height="44" />
