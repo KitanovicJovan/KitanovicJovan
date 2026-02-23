@@ -89,8 +89,8 @@
   </text>
       <rect x="24" y="192" width="332.4444444444444" height="8" fill="#3178c6" rx="1" />
       <rect x="356.4444444444444" y="192" width="207.7777777777778" height="8" fill="#563d7c" rx="1" />
-      <rect x="564.2222222222222" y="192" width="83.1111111111111" height="8" fill="#f1e05a" rx="1" />
-      <rect x="647.3333333333333" y="192" width="83.1111111111111" height="8" fill="#3572A5" rx="1" />
+      <rect x="564.2222222222222" y="192" width="83.1111111111111" height="8" fill="#3572A5" rx="1" />
+      <rect x="647.3333333333333" y="192" width="83.1111111111111" height="8" fill="#f1e05a" rx="1" />
       <rect x="730.4444444444443" y="192" width="41.55555555555555" height="8" fill="#e34c26" rx="1" />
       <circle class="lang-dot" cx="40" cy="217" fill="#3178c6" />
       <text class="lang-label" x="50" y="220">
@@ -100,13 +100,13 @@
       <text class="lang-label" x="210" y="220">
         CSS 28%
       </text>
-      <circle class="lang-dot" cx="360" cy="217" fill="#f1e05a" />
+      <circle class="lang-dot" cx="360" cy="217" fill="#3572A5" />
       <text class="lang-label" x="370" y="220">
-        JavaScript 11%
-      </text>
-      <circle class="lang-dot" cx="520" cy="217" fill="#3572A5" />
-      <text class="lang-label" x="530" y="220">
         Python 11%
+      </text>
+      <circle class="lang-dot" cx="520" cy="217" fill="#f1e05a" />
+      <text class="lang-label" x="530" y="220">
+        JavaScript 11%
       </text>
       <circle class="lang-dot" cx="680" cy="217" fill="#e34c26" />
       <text class="lang-label" x="690" y="220">
