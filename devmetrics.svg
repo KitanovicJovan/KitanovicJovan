@@ -84,17 +84,17 @@
   </text>
 
   <text class="stat-label" x="648" y="77" text-anchor="start">
-    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">4</tspan>
+    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">6</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
-      <rect x="24" y="192" width="287.69230769230774" height="8" fill="#563d7c" rx="1" />
-      <rect x="311.69230769230774" y="192" width="258.9230769230769" height="8" fill="#3178c6" rx="1" />
-      <rect x="570.6153846153846" y="192" width="86.3076923076923" height="8" fill="#f1e05a" rx="1" />
-      <rect x="656.9230769230769" y="192" width="57.53846153846154" height="8" fill="#3572A5" rx="1" />
-      <rect x="714.4615384615385" y="192" width="57.53846153846154" height="8" fill="#e34c26" rx="1" />
+      <rect x="24" y="192" width="316.46153846153845" height="8" fill="#563d7c" rx="1" />
+      <rect x="340.46153846153845" y="192" width="258.9230769230769" height="8" fill="#3178c6" rx="1" />
+      <rect x="599.3846153846154" y="192" width="86.3076923076923" height="8" fill="#f1e05a" rx="1" />
+      <rect x="685.6923076923076" y="192" width="57.53846153846154" height="8" fill="#3572A5" rx="1" />
+      <rect x="743.2307692307692" y="192" width="28.76923076923077" height="8" fill="#e34c26" rx="1" />
       <circle class="lang-dot" cx="40" cy="217" fill="#563d7c" />
       <text class="lang-label" x="50" y="220">
-        CSS 38%
+        CSS 42%
       </text>
       <circle class="lang-dot" cx="200" cy="217" fill="#3178c6" />
       <text class="lang-label" x="210" y="220">
@@ -110,7 +110,7 @@
       </text>
       <circle class="lang-dot" cx="680" cy="217" fill="#e34c26" />
       <text class="lang-label" x="690" y="220">
-        HTML 8%
+        HTML 4%
       </text>
 
   <text class="subtitle" x="24" y="246" style="fill: #e6edf3;">Issues &amp; pull requests</text>
