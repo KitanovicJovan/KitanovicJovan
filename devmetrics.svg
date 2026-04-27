@@ -114,6 +114,17 @@
       </text>
 
   <text class="subtitle" x="24" y="246" style="fill: #e6edf3;">Issues &amp; pull requests</text>
+    <text class="stat-label" x="24" y="272">
+      Issues ( 0 open · 1 closed )
+    </text>
+    <rect x="24" y="280" width="0" height="8" rx="1" fill="#238636" />
+    <rect x="24" y="280" width="748" height="8" rx="1" fill="#da3633" />
+    <text class="stat-label" x="24" y="314">
+      Pull requests ( 0 open · 1 merged · 0 closed )
+    </text>
+    <rect x="24" y="322" width="0" height="8" rx="1" fill="#238636" />
+    <rect x="24" y="322" width="748" height="8" rx="1" fill="#8957e5" />
+    <rect x="772" y="322" width="0" height="8" rx="1" fill="#da3633" />
 
   <text class="footer"
       x="400"
