@@ -85,8 +85,8 @@
   </text>
       <rect x="24" y="192" width="324.1333333333333" height="8" fill="#563d7c" rx="1" />
       <rect x="348.1333333333333" y="192" width="224.4" height="8" fill="#3178c6" rx="1" />
-      <rect x="572.5333333333333" y="192" width="74.8" height="8" fill="#e34c26" rx="1" />
-      <rect x="647.3333333333333" y="192" width="74.8" height="8" fill="#f1e05a" rx="1" />
+      <rect x="572.5333333333333" y="192" width="74.8" height="8" fill="#f1e05a" rx="1" />
+      <rect x="647.3333333333333" y="192" width="74.8" height="8" fill="#e34c26" rx="1" />
       <rect x="722.1333333333332" y="192" width="49.86666666666667" height="8" fill="#3572A5" rx="1" />
       <circle class="lang-dot" cx="40" cy="217" fill="#563d7c" />
       <text class="lang-label" x="50" y="220">
@@ -96,13 +96,13 @@
       <text class="lang-label" x="210" y="220">
         TypeScript 30%
       </text>
-      <circle class="lang-dot" cx="360" cy="217" fill="#e34c26" />
+      <circle class="lang-dot" cx="360" cy="217" fill="#f1e05a" />
       <text class="lang-label" x="370" y="220">
-        HTML 10%
-      </text>
-      <circle class="lang-dot" cx="520" cy="217" fill="#f1e05a" />
-      <text class="lang-label" x="530" y="220">
         JavaScript 10%
+      </text>
+      <circle class="lang-dot" cx="520" cy="217" fill="#e34c26" />
+      <text class="lang-label" x="530" y="220">
+        HTML 10%
       </text>
       <circle class="lang-dot" cx="680" cy="217" fill="#3572A5" />
       <text class="lang-label" x="690" y="220">
