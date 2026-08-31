@@ -74,7 +74,7 @@
     </g>
 
   <text class="stat-label" x="648" y="33" text-anchor="start">
-    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">1</tspan>
+    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">2</tspan>
     <tspan class="stat-label"> contribution streak</tspan>
   </text>
 
@@ -84,7 +84,7 @@
   </text>
 
   <text class="stat-label" x="648" y="77" text-anchor="start">
-    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">17</tspan>
+    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">20</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
       <rect x="24" y="192" width="249.3333333333333" height="8" fill="#563d7c" rx="1" />
@@ -125,7 +125,7 @@
     <rect x="24" y="300" width="0" height="8" rx="1" fill="#238636" />
     <rect x="24" y="300" width="748" height="8" rx="1" fill="#da3633" />
     <text class="stat-label" x="24" y="334">
-      Pull requests ( 0 open · 11 merged · 0 closed )
+      Pull requests ( 0 open · 12 merged · 0 closed )
     </text>
     <rect x="24" y="342" width="0" height="8" rx="1" fill="#238636" />
     <rect x="24" y="342" width="748" height="8" rx="1" fill="#8957e5" />
