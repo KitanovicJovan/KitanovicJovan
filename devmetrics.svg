@@ -87,19 +87,19 @@
     <tspan class="stat-value" style="font-size: 13px; font-weight:600;">11</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
-      <rect x="24" y="192" width="242.5945945945946" height="8" fill="#563d7c" rx="1" />
-      <rect x="266.5945945945946" y="192" width="242.5945945945946" height="8" fill="#3178c6" rx="1" />
+      <rect x="24" y="192" width="242.5945945945946" height="8" fill="#3178c6" rx="1" />
+      <rect x="266.5945945945946" y="192" width="242.5945945945946" height="8" fill="#563d7c" rx="1" />
       <rect x="509.18918918918916" y="192" width="80.86486486486486" height="8" fill="#e34c26" rx="1" />
       <rect x="590.0540540540541" y="192" width="80.86486486486486" height="8" fill="#f1e05a" rx="1" />
       <rect x="670.918918918919" y="192" width="60.64864864864865" height="8" fill="#3572A5" rx="1" />
       <rect x="731.5675675675676" y="192" width="40.43243243243243" height="8" fill="#b07219" rx="1" />
-      <circle class="lang-dot" cx="40" cy="217" fill="#563d7c" />
+      <circle class="lang-dot" cx="40" cy="217" fill="#3178c6" />
       <text class="lang-label" x="50" y="220">
-        CSS 32%
-      </text>
-      <circle class="lang-dot" cx="200" cy="217" fill="#3178c6" />
-      <text class="lang-label" x="210" y="220">
         TypeScript 32%
+      </text>
+      <circle class="lang-dot" cx="200" cy="217" fill="#563d7c" />
+      <text class="lang-label" x="210" y="220">
+        CSS 32%
       </text>
       <circle class="lang-dot" cx="360" cy="217" fill="#e34c26" />
       <text class="lang-label" x="370" y="220">
