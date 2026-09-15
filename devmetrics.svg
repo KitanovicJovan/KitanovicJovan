@@ -120,12 +120,6 @@
     </text>
     <rect x="24" y="300" width="0" height="8" rx="1" fill="#238636" />
     <rect x="24" y="300" width="748" height="8" rx="1" fill="#da3633" />
-    <text class="stat-label" x="24" y="334">
-      Pull requests ( 0 open · 15 merged · 0 closed )
-    </text>
-    <rect x="24" y="342" width="0" height="8" rx="1" fill="#238636" />
-    <rect x="24" y="342" width="748" height="8" rx="1" fill="#8957e5" />
-    <rect x="772" y="342" width="0" height="8" rx="1" fill="#da3633" />
 
   <text class="footer"
       x="400"
