@@ -53,7 +53,7 @@
 
   <rect class="stat-card" x="302" y="96" width="108" height="44" />
   <text class="stat-label" x="356" y="112" text-anchor="middle">Followers</text>
-  <text class="stat-value" x="356" y="130" text-anchor="middle">17</text>
+  <text class="stat-value" x="356" y="130" text-anchor="middle">16</text>
 
   <rect class="stat-card" x="425" y="96" width="108" height="44" />
   <text class="stat-label" x="479" y="112" text-anchor="middle">Contributed</text>
@@ -84,7 +84,7 @@
   </text>
 
   <text class="stat-label" x="648" y="77" text-anchor="start">
-    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">15</tspan>
+    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">9</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
       <rect x="24" y="192" width="242.5945945945946" height="8" fill="#3178c6" rx="1" />
