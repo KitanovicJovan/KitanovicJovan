@@ -61,7 +61,7 @@
 
   <rect class="stat-card" x="548" y="96" width="108" height="44" />
   <text class="stat-label" x="602" y="112" text-anchor="middle">Joined</text>
-  <text class="stat-value" x="602" y="130" text-anchor="middle">1 year ago</text>
+  <text class="stat-value" x="602" y="130" text-anchor="middle">2 years ago</text>
 
   <rect class="stat-card" x="671" y="96" width="108" height="44" />
   <text class="stat-label" x="725" y="112" text-anchor="middle">Languages</text>
