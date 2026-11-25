@@ -44,7 +44,7 @@
   <rect class="stat-card" x="24"  y="96" width="140" height="44" />
   <text class="stat-label" x="94" y="112" text-anchor="middle">Repos</text>
   <text class="stat-value" x="94" y="130" text-anchor="middle">
-    3 pub · 38 priv
+    3 pub · 39 priv
   </text>
 
   <rect class="stat-card" x="179" y="96" width="108" height="44" />
@@ -65,12 +65,16 @@
 
   <rect class="stat-card" x="671" y="96" width="108" height="44" />
   <text class="stat-label" x="725" y="112" text-anchor="middle">Languages</text>
-  <text class="stat-value" x="725" y="130" text-anchor="middle">6</text>
+  <text class="stat-value" x="725" y="130" text-anchor="middle">7</text>
 
-  <text class="subtitle" x="24" y="174" style="fill: #e6edf3;">Most used languages</text>
+  <text class="subtitle" x="24" y="174" style="fill: #e6edf3;">Most used languages</text>  
+    <g transform="translate(622, 16.5) scale(1.3)">
+      <path d="M8 16c3.314 0 6-2 6-5.5 0-1.5-.5-4-2.5-6 .25 1.5-1.25 2-1.25 2C11 4 9 .5 6 0c.357 2 .5 4-2 6C2.75 7 2 8.729 2 10.5C2 14 4.686 16 8 16" fill="#f97316" />
+      <path d="M8 15c-1.657 0-3-1-3-2.75 0-.75.25-2 1.25-3C6.125 10 7 10.5 7 10.5c-.375-1.25.5-3.25 2-3.5-.179 1-.25 2 1 3 .625.5 1 1.364 1 2.25C11 14 9.657 15 8 15" fill="#facc15" />
+    </g>
 
   <text class="stat-label" x="648" y="33" text-anchor="start">
-    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">0</tspan>
+    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">1</tspan>
     <tspan class="stat-label"> contribution streak</tspan>
   </text>
 
@@ -80,22 +84,23 @@
   </text>
 
   <text class="stat-label" x="648" y="77" text-anchor="start">
-    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">27</tspan>
+    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">81</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
-      <rect x="24" y="192" width="242.5945945945946" height="8" fill="#3178c6" rx="1" />
-      <rect x="266.5945945945946" y="192" width="242.5945945945946" height="8" fill="#563d7c" rx="1" />
-      <rect x="509.18918918918916" y="192" width="80.86486486486486" height="8" fill="#f1e05a" rx="1" />
-      <rect x="590.0540540540541" y="192" width="80.86486486486486" height="8" fill="#e34c26" rx="1" />
-      <rect x="670.918918918919" y="192" width="60.64864864864865" height="8" fill="#3572A5" rx="1" />
-      <rect x="731.5675675675676" y="192" width="40.43243243243243" height="8" fill="#b07219" rx="1" />
-      <circle class="lang-dot" cx="40" cy="217" fill="#3178c6" />
+      <rect x="24" y="192" width="236.21052631578945" height="8" fill="#563d7c" rx="1" />
+      <rect x="260.2105263157895" y="192" width="236.21052631578945" height="8" fill="#3178c6" rx="1" />
+      <rect x="496.42105263157896" y="192" width="78.73684210526315" height="8" fill="#f1e05a" rx="1" />
+      <rect x="575.1578947368421" y="192" width="78.73684210526315" height="8" fill="#e34c26" rx="1" />
+      <rect x="653.8947368421052" y="192" width="59.05263157894736" height="8" fill="#3572A5" rx="1" />
+      <rect x="712.9473684210526" y="192" width="39.368421052631575" height="8" fill="#b07219" rx="1" />
+      <rect x="752.3157894736842" y="192" width="19.684210526315788" height="8" fill="#4F5D95" rx="1" />
+      <circle class="lang-dot" cx="40" cy="217" fill="#563d7c" />
       <text class="lang-label" x="50" y="220">
-        TypeScript 32%
-      </text>
-      <circle class="lang-dot" cx="200" cy="217" fill="#563d7c" />
-      <text class="lang-label" x="210" y="220">
         CSS 32%
+      </text>
+      <circle class="lang-dot" cx="200" cy="217" fill="#3178c6" />
+      <text class="lang-label" x="210" y="220">
+        TypeScript 32%
       </text>
       <circle class="lang-dot" cx="360" cy="217" fill="#f1e05a" />
       <text class="lang-label" x="370" y="220">
@@ -112,6 +117,10 @@
       <circle class="lang-dot" cx="40" cy="237" fill="#b07219" />
       <text class="lang-label" x="50" y="240">
         Java 5%
+      </text>
+      <circle class="lang-dot" cx="200" cy="237" fill="#4F5D95" />
+      <text class="lang-label" x="210" y="240">
+        PHP 3%
       </text>
 
   <text class="subtitle" x="24" y="266" style="fill: #e6edf3;">Issues &amp; pull requests</text>
