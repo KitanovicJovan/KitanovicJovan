@@ -84,31 +84,31 @@
   </text>
 
   <text class="stat-label" x="648" y="77" text-anchor="start">
-    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">76</tspan>
+    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">77</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
-      <rect x="24" y="192" width="236.21052631578945" height="8" fill="#3178c6" rx="1" />
-      <rect x="260.2105263157895" y="192" width="236.21052631578945" height="8" fill="#563d7c" rx="1" />
-      <rect x="496.42105263157896" y="192" width="78.73684210526315" height="8" fill="#f1e05a" rx="1" />
-      <rect x="575.1578947368421" y="192" width="78.73684210526315" height="8" fill="#e34c26" rx="1" />
+      <rect x="24" y="192" width="236.21052631578945" height="8" fill="#563d7c" rx="1" />
+      <rect x="260.2105263157895" y="192" width="236.21052631578945" height="8" fill="#3178c6" rx="1" />
+      <rect x="496.42105263157896" y="192" width="78.73684210526315" height="8" fill="#e34c26" rx="1" />
+      <rect x="575.1578947368421" y="192" width="78.73684210526315" height="8" fill="#f1e05a" rx="1" />
       <rect x="653.8947368421052" y="192" width="59.05263157894736" height="8" fill="#3572A5" rx="1" />
       <rect x="712.9473684210526" y="192" width="39.368421052631575" height="8" fill="#b07219" rx="1" />
       <rect x="752.3157894736842" y="192" width="19.684210526315788" height="8" fill="#4F5D95" rx="1" />
-      <circle class="lang-dot" cx="40" cy="217" fill="#3178c6" />
+      <circle class="lang-dot" cx="40" cy="217" fill="#563d7c" />
       <text class="lang-label" x="50" y="220">
-        TypeScript 32%
-      </text>
-      <circle class="lang-dot" cx="200" cy="217" fill="#563d7c" />
-      <text class="lang-label" x="210" y="220">
         CSS 32%
       </text>
-      <circle class="lang-dot" cx="360" cy="217" fill="#f1e05a" />
-      <text class="lang-label" x="370" y="220">
-        JavaScript 11%
+      <circle class="lang-dot" cx="200" cy="217" fill="#3178c6" />
+      <text class="lang-label" x="210" y="220">
+        TypeScript 32%
       </text>
-      <circle class="lang-dot" cx="520" cy="217" fill="#e34c26" />
-      <text class="lang-label" x="530" y="220">
+      <circle class="lang-dot" cx="360" cy="217" fill="#e34c26" />
+      <text class="lang-label" x="370" y="220">
         HTML 11%
+      </text>
+      <circle class="lang-dot" cx="520" cy="217" fill="#f1e05a" />
+      <text class="lang-label" x="530" y="220">
+        JavaScript 11%
       </text>
       <circle class="lang-dot" cx="680" cy="217" fill="#3572A5" />
       <text class="lang-label" x="690" y="220">
